@@ -19,7 +19,7 @@
                 Duration="0:0:2">
                 <ThicknessAnimationUsingKeyFrames.KeyFrames>
                     <LinearThicknessKeyFrame KeyTime="0:0:0.5" Value="0,0,0,0" />
-                    <LinearThicknessKeyFrame KeyTime="0:0:1.5" Value="0,0,1000,0" />
+                    <LinearThicknessKeyFrame KeyTime="0:0:2" Value="0,0,1000,0" />
                     <DiscreteThicknessKeyFrame KeyTime="0:0:2" Value="0,0,0,-300" />
                 </ThicknessAnimationUsingKeyFrames.KeyFrames>
             </ThicknessAnimationUsingKeyFrames>
