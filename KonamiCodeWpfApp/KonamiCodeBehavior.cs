@@ -14,8 +14,8 @@ namespace KonamiCodeWpfApp
 
         public Storyboard Storyboard
         {
-            get => (Storyboard)GetValue(StoryboardProperty);
-            set => SetValue(StoryboardProperty, value);
+            get { return (Storyboard)GetValue(StoryboardProperty); }
+            set { SetValue(StoryboardProperty, value); }
         }
 
         private int currentKey = 0;
